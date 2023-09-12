@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Quick.Keycloak.Client/bin/Debug/net7.0
+/Quick.Keycloak.Client/obj
+/Quick.Keycloak.Sample/.vs
+/Quick.Keycloak.Sample/bin/Debug/net7.0
+/Quick.Keycloak.Sample/obj
+/.vs/Quick.Keycloak.Ckient
+/Quick.Keycloak.Client/bin/Debug
