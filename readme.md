@@ -58,7 +58,7 @@ builder.Services.AddAuthorization(options =>
 });
 builder.Services.AddControllers();
 
-builder.AddKeycloakTokenJWT();
+builder.AddQuickKeycloakTokenJWT();
 
 var app = builder.Build();
 
